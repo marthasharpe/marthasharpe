@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @marthasharpe
-- 👀 I’m interested in building user-friendly and high-performance applications in React and React Native.
-- 🌱 I’m currenty learning React frameworks like Remix and Next.js, also testing with Jest.
-- 💞️ I’m not looking to collaborate except with my coworkers at the moment.
+- 👀 I’m interested in building user-friendly and high-performance applications in React, React Native, and Next.js.
 - 📫 Reach me on LinkedIn or Twitter
 
 <!---
